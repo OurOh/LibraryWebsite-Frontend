@@ -60,7 +60,7 @@
 
  @font-face{
     font-family: 'Pretendard';
-    font-weight:300;
+    font-weight:299;
     font-display: swap;
     src: local('Pretendard Light'), 
          url(../fonts/Pretendard-Light.ttf) format('trutype'),
