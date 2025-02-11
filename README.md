@@ -25,7 +25,7 @@ HTML과 CSS를 활용하여 웹사이트 레이아웃과 스타일을 구현했�
 
 ## 🧑‍💻 개발자 정보  
 - **개발자**: 오승안 / OH SEUNG ANH 
-- **이메일**: dhtmddks98@naver.com, ahn980321@gmail.com ,
+- **이메일**: dhtmddks98@naver.com, ahn980321@gmail.com
 - **GitHub**: https://github.com/OurOh
 - **개인블로그**: https://ouroh.tistory.com/
 ---
