@@ -1,4 +1,4 @@
-# LibraryWebsite  
+# LibraryWebsite-Frontend  
 **도서관 웹사이트 프론트엔드 연습 프로젝트**  
 
 ---
@@ -23,6 +23,13 @@ HTML과 CSS를 활용하여 웹사이트 레이아웃과 스타일을 구현했�
 
 ---
 
+## 🧑‍💻 개발자 정보  
+- **개발자**: 오승안 / OH SEUNG ANH 
+- **이메일**: dhtmddks98@naver.com, ahn980321@gmail.com ,
+- **GitHub**: https://github.com/OurOh
+- **개인블로그**: https://ouroh.tistory.com/
+---
+
 ## 🗂️ 프로젝트 구조  
 ```plaintext
 LibraryWebsite/
@@ -43,9 +50,4 @@ LibraryWebsite/
 
 ```
 ---
-
-## 🧑‍💻 개발자 정보  
-- **개발자**: 오승안 / OH SEUNG ANH 
-- **이메일**: ahn980321@gmail.com , dhtmddks98@naver.com 
-- **GitHub**: https://github.com/OurOh
 
